@@ -1,3 +1,3 @@
 [submodule "src"]
 	path = src
-	url = https://github.com/brandyaptx/boringssl.git
+	url = ssh://git@github.com/brandyaptx/boringssl.git
